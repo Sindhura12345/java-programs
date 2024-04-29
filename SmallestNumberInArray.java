@@ -1,5 +1,5 @@
 import java.util.*;
-public class sample {
+public class SmallestNumberInArray {
  
   public static void main(String args[]) {
  
