@@ -19,5 +19,15 @@ public class ArrayReverse {
        int arr[] = { 5, 4, 3, 2, 1};
        reverseArray(arr, n);
     }
+   //  static void reverseArray(int arr[], int n) {
+   //    int rev[]=new int[n];
+   //    int a=0;
+   //    for(int i=n-1;i>=0;i--)
+   //    {
+   //        rev[a]=arr[i];
+   //        a++;
+   //    }
+   //     printArray(rev, n);
+   //  }
  }
  
